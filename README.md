@@ -1,3 +1,3 @@
-# codershouse-mern
+# voxs-mern
 
-Final code: deployment branch
+Final code: deployment 
